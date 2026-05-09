@@ -1,0 +1,7 @@
+node_modules
+dist
+.firebase
+.agent
+scratch
+*.log
+.DS_Store
